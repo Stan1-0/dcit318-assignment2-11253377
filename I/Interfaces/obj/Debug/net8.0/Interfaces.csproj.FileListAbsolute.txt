@@ -1,0 +1,15 @@
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Users\Stan.STAN1-0\Desktop\Projects_VSCode\C#\dcit318-assignment2-11253377\I\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

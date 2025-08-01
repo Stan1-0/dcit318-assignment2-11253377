@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Stan.STAN1-0\\Desktop\\Projects_VSCode\\C#\\dcit318-assignment2-11253377\\Inheritance and Method Overriding\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B121C6E8-A725-41EC-8B10-24CA97D52849}|..\\I\\Interfaces\\Interfaces.csproj|c:\\users\\stan.stan1-0\\desktop\\projects_vscode\\c#\\dcit318-assignment2-11253377\\i\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B6FE8BE-C7C2-4F44-AD73-DDC8947C0076}|..\\Abstract Classes and Methods\\Abstract Classes and Methods.csproj|c:\\users\\stan.stan1-0\\desktop\\projects_vscode\\c#\\dcit318-assignment2-11253377\\abstract classes and methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,18 +30,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Stan.STAN1-0\\Desktop\\Projects_VSCode\\C#\\dcit318-assignment2-11253377\\Abstract Classes and Methods\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Abstract Classes and Methods\\Program.cs",
-              "ToolTip": "C:\\Users\\Stan.STAN1-0\\Desktop\\Projects_VSCode\\C#\\dcit318-assignment2-11253377\\Abstract Classes and Methods\\Program.cs",
-              "RelativeToolTip": "..\\Abstract Classes and Methods\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Stan.STAN1-0\\Desktop\\Projects_VSCode\\C#\\dcit318-assignment2-11253377\\I\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "..\\I\\Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\Stan.STAN1-0\\Desktop\\Projects_VSCode\\C#\\dcit318-assignment2-11253377\\I\\Interfaces\\Program.cs",
+              "RelativeToolTip": "..\\I\\Interfaces\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwB0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T00:14:59.868Z",
+              "WhenOpened": "2025-08-01T00:25:23.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stan.STAN1-0\\Desktop\\Projects_VSCode\\C#\\dcit318-assignment2-11253377\\Abstract Classes and Methods\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Abstract Classes and Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\Stan.STAN1-0\\Desktop\\Projects_VSCode\\C#\\dcit318-assignment2-11253377\\Abstract Classes and Methods\\Program.cs",
+              "RelativeToolTip": "..\\Abstract Classes and Methods\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T00:14:59.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Stan.STAN1-0\\Desktop\\Projects_VSCode\\C#\\dcit318-assignment2-11253377\\Inheritance and Method Overriding\\Inheritance and Method Overriding\\Program.cs",
               "RelativeDocumentMoniker": "Inheritance and Method Overriding\\Program.cs",
@@ -46,8 +61,7 @@
               "RelativeToolTip": "Inheritance and Method Overriding\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T23:59:07.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T23:59:07.11Z"
             }
           ]
         }
